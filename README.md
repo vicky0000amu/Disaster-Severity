@@ -1,1 +1,1 @@
-# Disaster-Severity
+# Disaster-Severity Project
